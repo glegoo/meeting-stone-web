@@ -1,0 +1,16 @@
+:root {
+  --color-brand: #46c3fc;
+  --color-brand-light: #74d2fd;
+  --color-brand-dark: #389cca;
+
+  --bg-primary: #000000;
+  --bg-secondary: #1e1e1e;
+  --bg-tertiary: #141414;
+
+  --text-primary: #ffffff;
+  --text-secondary: #e1f1f4;
+  --text-muted: #b2b2b2;
+  --text-disabled: #727272;
+  --text-link: #46c3fc;
+}
+
